@@ -14,6 +14,10 @@ Welcome to ReactPod, an iPod-inspired application built using React.js, CSS, and
 - **Sliding Feature**: Use the rotating pad to access the menu.
 - **Play/Pause, Next, Previous Buttons**: Control playback of songs.
 
+## Live Website
+
+[Habit Forge](https://gautamuniverse.github.io/reactpod/)
+
 ## User Stories
 
 - Users can access various features and menus like Settings, Music, Coverflow.

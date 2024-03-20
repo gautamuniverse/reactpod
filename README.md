@@ -16,7 +16,7 @@ Welcome to ReactPod, an iPod-inspired application built using React.js, CSS, and
 
 ## Live Website
 
-[Habit Forge](https://gautamuniverse.github.io/reactpod/)
+[ReactPod](https://gautamuniverse.github.io/reactpod/)
 
 ## User Stories
 

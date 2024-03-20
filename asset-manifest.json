@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/reactpod/static/css/main.d7f1d1ed.css",
+    "main.js": "/reactpod/static/js/main.b8369ff1.js",
+    "static/media/diamondsnroses.mp3": "/reactpod/static/media/diamondsnroses.0dea47aa894f7c1238cb.mp3",
+    "static/media/fainted.mp3": "/reactpod/static/media/fainted.07211fdaaf3cdb5389b9.mp3",
+    "static/media/wedonttalkanymore.mp3": "/reactpod/static/media/wedonttalkanymore.a20bcd7e948a9d542c5d.mp3",
+    "static/media/interlinked.mp3": "/reactpod/static/media/interlinked.7a78856d126b9c6c0458.mp3",
+    "static/media/simpsonwave.mp3": "/reactpod/static/media/simpsonwave.828ce1aa8b70beb39f41.mp3",
+    "static/media/metamorphosistwo.mp3": "/reactpod/static/media/metamorphosistwo.7cdd3b82a133c03d13ed.mp3",
+    "static/media/liveanotherday.mp3": "/reactpod/static/media/liveanotherday.851fb2d5f44f2a32c59a.mp3",
+    "static/media/euphoria.mp3": "/reactpod/static/media/euphoria.4b288265815821132fc5.mp3",
+    "static/media/scenery.png": "/reactpod/static/media/scenery.abb1b952a53d16483341.png",
+    "static/media/futuristic.png": "/reactpod/static/media/futuristic.3c1969da213d58693bd6.png",
+    "static/media/gta5.jpg": "/reactpod/static/media/gta5.1bfc436904871de907a6.jpg",
+    "static/media/dallemoon.png": "/reactpod/static/media/dallemoon.bdb9f5f43818552c726f.png",
+    "static/media/interworld.jpg": "/reactpod/static/media/interworld.65df1b08b123442a08a2.jpg",
+    "static/media/lockscreen.png": "/reactpod/static/media/lockscreen.61c880b5cbc1518dfac3.png",
+    "static/media/interlinked.jpg": "/reactpod/static/media/interlinked.9564bb4dfed94a0d54b4.jpg",
+    "static/media/simpsonwave.jpg": "/reactpod/static/media/simpsonwave.3f1c7d3a7c0fbb8c6b24.jpg",
+    "static/media/euphoria.jpg": "/reactpod/static/media/euphoria.3ee72fd3e1fc27e27374.jpg",
+    "static/media/metamorphosistwo.jpg": "/reactpod/static/media/metamorphosistwo.37b0440d98ba23f7b10e.jpg",
+    "static/media/voj.jpg": "/reactpod/static/media/voj.03fbb91eacc427b85440.jpg",
+    "static/media/charlieputh.jpg": "/reactpod/static/media/charlieputh.feff176aa8ee37a88f4c.jpg",
+    "static/media/wedonttalkanymore.jpg": "/reactpod/static/media/wedonttalkanymore.ff1bf702bc88de86a5b7.jpg",
+    "static/media/liveanotherday.jpg": "/reactpod/static/media/liveanotherday.6731164cc544d7e8d7cd.jpg",
+    "static/media/diamondsnroses.jpg": "/reactpod/static/media/diamondsnroses.f7a7dbf2f3dbdd40afd1.jpg",
+    "static/media/games.jpg": "/reactpod/static/media/games.a126bcfd014e63caab83.jpg",
+    "static/media/fainted.jpg": "/reactpod/static/media/fainted.09a72aa0f9ec946107cd.jpg",
+    "static/media/kordhell.jpg": "/reactpod/static/media/kordhell.6466e85a8f13f455dd84.jpg",
+    "index.html": "/reactpod/index.html",
+    "main.d7f1d1ed.css.map": "/reactpod/static/css/main.d7f1d1ed.css.map",
+    "main.b8369ff1.js.map": "/reactpod/static/js/main.b8369ff1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7f1d1ed.css",
+    "static/js/main.b8369ff1.js"
+  ]
+}
